@@ -6,3 +6,5 @@ I also plan on updating it from time to time, right now my thoughts are:
 -adding SFX to all the stuff
 -adding animations to events in the game, like death or game starting
 -maybe improving the already existing animations
+
+video of the game running: https://youtu.be/H0GQSRDHE4k 
