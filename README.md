@@ -1,10 +1,20 @@
-I plan on writing a brief documentation for the code in the future. Feel free to contact me, but there's nothing really special. 
+This project is a simple 2D space shooter made with SFML. 
 
-I also plan on updating it from time to time, right now my thoughts are:
-point and score system/menu
-increase in difficulty with time, just like those endless running games
-adding SFX to all the stuff
-adding animations to events in the game, like death or game starting
-maybe improving the already existing animations
+I plan on writing a brief documentation for the code in the future.  
+Feel free to contact me, but there's nothing really special.
+ 
+I also plan on updating it from time to time. My thoughts are:
 
-video of the game running: https://youtu.be/H0GQSRDHE4k 
+-  Point and score system with a menu
+-  Increase in difficulty over time (like endless runner games)
+-  Add sound effects (SFX) for actions/events
+-  Add animations to key events (e.g., death, game start)
+-  Improve existing animations
+
+---
+
+##  Gameplay Video
+
+📺 [Watch a video of the game running on YouTube](https://youtu.be/H0GQSRDHE4k)
+
+[![Watch the game video](https://img.youtube.com/vi/H0GQSRDHE4k/0.jpg)](https://youtu.be/H0GQSRDHE4k)
