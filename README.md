@@ -12,6 +12,6 @@ I plan on updating it from time to time. My thoughts are:
 
 ##  Gameplay Video
 
- [Watch a video of the game running on YouTube](https://youtu.be/H0GQSRDHE4k)
+ (https://youtu.be/H0GQSRDHE4k)
 
 [![Watch the game video](https://img.youtube.com/vi/H0GQSRDHE4k/0.jpg)](https://youtu.be/H0GQSRDHE4k)
